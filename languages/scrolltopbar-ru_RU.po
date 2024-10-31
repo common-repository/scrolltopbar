@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: ScrollTopBar\n"
+"POT-Creation-Date: 2017-07-16 16:46+0300\n"
+"PO-Revision-Date: 2017-07-16 16:49+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: scrolltopbar.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/scrolltopbar-admin.php:6 includes/scrolltopbar-admin.php:35
+msgid "ScrollTopBar Settings"
+msgstr "Настройки ScrollTopBar"
+
+#: includes/scrolltopbar-admin.php:64
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: includes/scrolltopbar-admin.php:65
+msgid "Position"
+msgstr "Положение"
+
+#: includes/scrolltopbar-admin.php:66
+msgid "Position of elements"
+msgstr "Положение элементов"
+
+#: includes/scrolltopbar-admin.php:67
+msgid "Top offset"
+msgstr "Отступ сверху"
+
+#: includes/scrolltopbar-admin.php:68
+msgid "Horizontal offset"
+msgstr "Горизонтальный отступ"
+
+#: includes/scrolltopbar-admin.php:69
+msgid "Scroll offset"
+msgstr "Отступ прокрутки"
+
+#: includes/scrolltopbar-admin.php:70
+msgid "Text"
+msgstr "Текст"
+
+#: includes/scrolltopbar-admin.php:71
+msgid "Fade in speed"
+msgstr "Скорость появления"
+
+#: includes/scrolltopbar-admin.php:72
+msgid "Fade out speed"
+msgstr "Скорость исчезания"
+
+#: includes/scrolltopbar-admin.php:73
+msgid "Back to bottom"
+msgstr "Назад вниз"
+
+#: includes/scrolltopbar-admin.php:74
+msgid "Script loading"
+msgstr "Загрузка скрипта"
+
+#: includes/scrolltopbar-admin.php:75
+msgid "Style Settings"
+msgstr "Настройки внешнего вида"
+
+#: includes/scrolltopbar-admin.php:76
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/scrolltopbar-admin.php:77
+msgid "Opacity"
+msgstr "Прозрачность"
+
+#: includes/scrolltopbar-admin.php:78
+msgid "Up arrow"
+msgstr "Стрелка вверх"
+
+#: includes/scrolltopbar-admin.php:79
+msgid "Down arrow"
+msgstr "Стрелка вниз"
+
+#: includes/scrolltopbar-admin.php:80
+msgid "Background color & opacity"
+msgstr "Цвет & прозрачность фона"
+
+#: includes/scrolltopbar-admin.php:81
+msgid "Smooth hover speed"
+msgstr "Скорость наведения"
+
+#: includes/scrolltopbar-admin.php:82
+msgid "Elements offset"
+msgstr "Смещение элементов"
+
+#: includes/scrolltopbar-admin.php:83
+msgid "Elements color"
+msgstr "Цвет элементов"
+
+#: includes/scrolltopbar-admin.php:84
+msgid "Arrow size"
+msgstr "Размер стрелки"
+
+#: includes/scrolltopbar-admin.php:85
+msgid "Text size"
+msgstr "Размер текста"
+
+#: includes/scrolltopbar-admin.php:86
+msgid "Text position"
+msgstr "Позиция текста"
+
+#: includes/scrolltopbar-admin.php:87
+msgid "Text font"
+msgstr "Шрифт текста"
+
+#: includes/scrolltopbar-admin.php:88
+msgid "Custom CSS styles"
+msgstr "Произвольный CSS код"
+
+#: includes/scrolltopbar-admin.php:89
+msgid "Responsive Settings"
+msgstr "Настройки адаптивности"
+
+#: includes/scrolltopbar-admin.php:90
+msgid "Make smaller"
+msgstr "Делать меньше"
+
+#: includes/scrolltopbar-admin.php:91
+msgid "Hide"
+msgstr "Скрывать"
+
+#: includes/scrolltopbar-admin.php:92
+msgid "Show button"
+msgstr "Показывать кнопку"
+
+#: includes/scrolltopbar-admin.php:104
+msgid "Left"
+msgstr "Слева"
+
+#: includes/scrolltopbar-admin.php:110
+msgid "Right"
+msgstr "Справа"
+
+#: includes/scrolltopbar-admin.php:127
+msgid "Top"
+msgstr "Сверху"
+
+#: includes/scrolltopbar-admin.php:133
+msgid "Bottom"
+msgstr "Снизу"
+
+#: includes/scrolltopbar-admin.php:147 includes/scrolltopbar-admin.php:158
+#: includes/scrolltopbar-admin.php:170 includes/scrolltopbar-admin.php:263
+#: includes/scrolltopbar-admin.php:475 includes/scrolltopbar-admin.php:501
+#: includes/scrolltopbar-admin.php:513 includes/scrolltopbar-admin.php:569
+#: includes/scrolltopbar-admin.php:573 includes/scrolltopbar-admin.php:587
+#: includes/scrolltopbar-admin.php:608
+msgid "px"
+msgstr ""
+
+#: includes/scrolltopbar-admin.php:168
+msgid "Show ScrollTopBar after scrolling"
+msgstr "Показывать ScrollTopBar после прокрутки"
+
+#: includes/scrolltopbar-admin.php:172
+msgid "0 – ScrollTopBar is always visible"
+msgstr "0 – ScrollTopBar будет виден всегда"
+
+#: includes/scrolltopbar-admin.php:192 includes/scrolltopbar-admin.php:212
+#: includes/scrolltopbar-admin.php:464
+msgid "ms"
+msgstr ""
+
+#: includes/scrolltopbar-admin.php:193
+msgid "0 – disable fade in effect"
+msgstr "0 – отключить плавное появление"
+
+#: includes/scrolltopbar-admin.php:200
+msgid "Disable fade in effect on page load"
+msgstr "Отключить плавное появление при загрузке страницы"
+
+#: includes/scrolltopbar-admin.php:213
+msgid "0 – disable fade out effect"
+msgstr "0 – отключить плавное исчезание"
+
+#: includes/scrolltopbar-admin.php:226
+msgid "Yes"
+msgstr "Да"
+
+#: includes/scrolltopbar-admin.php:232
+msgid "No"
+msgstr "Нет"
+
+#: includes/scrolltopbar-admin.php:247 includes/scrolltopbar-admin.php:440
+msgid "Normal"
+msgstr "Обычная"
+
+#: includes/scrolltopbar-admin.php:249
+msgid "Async"
+msgstr "Асинхронная"
+
+#: includes/scrolltopbar-admin.php:251
+msgid "Defer"
+msgstr ""
+
+#: includes/scrolltopbar-admin.php:253
+msgid "Do not change this unless you know what you're doing"
+msgstr "Не изменяйте это, если вы не знаете, что это"
+
+#: includes/scrolltopbar-admin.php:451
+msgid "On hover"
+msgstr "При наведении"
+
+#: includes/scrolltopbar-admin.php:465
+msgid "0 – disable smooth effect"
+msgstr "0 – отключить плавность при наведении"
+
+#: includes/scrolltopbar-admin.php:502
+msgid "0 – don't show the arrow"
+msgstr "0 – не показывать стрелку"
+
+#: includes/scrolltopbar-admin.php:528
+msgid "Under the arrow"
+msgstr "Над стрелкой"
+
+#: includes/scrolltopbar-admin.php:534
+msgid "To the right of the arrow"
+msgstr "Справа стрелки"
+
+#: includes/scrolltopbar-admin.php:567
+msgid "Make ScrollTopBar's width to"
+msgstr "Уменьшать ширину ScrollTopBar до"
+
+#: includes/scrolltopbar-admin.php:571
+msgid "if the user's screen is less than"
+msgstr "если экран пользователя менее чем"
+
+#: includes/scrolltopbar-admin.php:575
+msgid "0 – don't make ScrollTopBar smaller"
+msgstr "0 – не уменьшать ScrollTopBar"
+
+#: includes/scrolltopbar-admin.php:585
+msgid "Hide ScrollTopBar if the user's screen is less than"
+msgstr "Скрывать ScrollTopBar, если экран пользователя менее чем"
+
+#: includes/scrolltopbar-admin.php:590
+msgid "0 – don't hide ScrollTopBar"
+msgstr "0 – не скрывать ScrollTopBar"
+
+#: includes/scrolltopbar-admin.php:602
+msgid "Show back to top button instead of hide ScrollTopBar"
+msgstr "Показать кнопку \"Наверх\" вместо скрытия"
+
+#: includes/scrolltopbar-admin.php:608
+msgid "Back to top button border radius:"
+msgstr "Смягчение углов у кнопки \"Назад\":"
+
+#: scrolltopbar.php:223
+msgid "Settings"
+msgstr "Настройки"
+
+#. Plugin Name of the plugin/theme
+msgid "ScrollTopBar"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create your own full-height back to top button. Simple setup makes it "
+"possible to adapt ScrollTopBar to any WordPress template."
+msgstr ""
+"Создайте собственную вертикальную кнопку \"Вернуться наверх\". Простая "
+"настройка позволяет адаптировать ScrollTopBar под любую тему WordPress."
+
+#. Author of the plugin/theme
+msgid "Roman Sarvarov"
+msgstr "Роман Сарваров"
+
+#. Author URI of the plugin/theme
+msgid "https://about.me/sarvaroff"
+msgstr ""
